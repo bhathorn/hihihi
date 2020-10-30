@@ -2,7 +2,7 @@
     <head>
         <title>Hello world</title>
     </head>
-        <body>
+    <body>
         <h1>ภาธร วัฒน์ประกายรัตน์ แทน</h1>
         <p>63070133</p>
         <img src="skyme.jpg">
