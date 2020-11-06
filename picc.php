@@ -10,34 +10,34 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-sm-6">
-                <img src="img/work/work1.jpg" style="height: 100%;" class="img-fluid rounded" />
+                <img src="work1.jpg" style="height: 100%;" class="img-fluid rounded" />
             </div>
             <div class="col-12 col-sm-3">
                 <div class="row">
                     <div class="col-12">
-                        <img src="img/work/work2.jpg" class="img-fluid rounded" />
+                        <img src="work2.jpg" class="img-fluid rounded" />
                     </div>
                 </div> <!-- Close Row 1 -->
                 <div class="row">
                     <div class="col-12">
-                        <img src="img/work/work3.jpg" class="img-fluid rounded" />
+                        <img src="work3.jpg" class="img-fluid rounded" />
                     </div>
                 </div> <!-- Close Row 2 -->
                 <div class="row">
                     <div class="col-12">
-                        <img src="img/work/work4.jpg" class="img-fluid rounded" />
+                        <img src="work4.jpg" class="img-fluid rounded" />
                     </div>
                 </div> <!-- Close Row 3 -->
             </div>
             <div class="col-12 col-sm-3">
                 <div class="row" style="height: 66.66%;" >
                     <div class="col-12">
-                        <img src="img/work/work5.jpg"  style="height: 100%; width: 100%;" class="img-fluid rounded" />
+                        <img src="work5.jpg"  style="height: 100%; width: 100%;" class="img-fluid rounded" />
                     </div>
                 </div> <!-- Close Row 1 -->
                 <div class="row">
                     <div class="col-12">
-                        <img src="img/work/work3.jpg" class="img-fluid rounded" />
+                        <img src="work3.jpg" class="img-fluid rounded" />
                     </div>
                 </div> <!-- Close Row 2 -->
             </div>
